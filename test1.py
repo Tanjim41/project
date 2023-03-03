@@ -10,3 +10,5 @@ def total_expenditure(exp):
 
     tanjim_cost=total_expenditure(total_cost_tanjim)
     alif_cost=total_expenditure(total_cost_alif)
+    print("tanjim_cost")
+    Print("alif_cost")
